@@ -5,5 +5,5 @@
     - on one terminal: `yarn start`
     - on another terminal: `yarn android` or `yarn ios`
 
-### Teste
+### Tests
     - there are no tests here I live in a no law world. It's joke 😂😂😂, I don't know how to make tests YET!!! 😉😉😉  
