@@ -1,7 +1,8 @@
 ### Description
     - My first attempt at learning React Native. This application is for educational purposes only. 
 
-### Running 
+### Running
+    - on terminal: `yarn` to install all dependencies
     - on one terminal: `yarn start`
     - on another terminal: `yarn android` or `yarn ios`
 
